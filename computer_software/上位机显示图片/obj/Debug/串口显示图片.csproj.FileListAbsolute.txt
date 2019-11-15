@@ -1,0 +1,4 @@
+D:\Users\HOWU\Desktop\serial-picture\duyang-3-Serial\obj\Debug\duyang-3-Serial.exe
+D:\Users\HOWU\Desktop\serial-picture\duyang-3-Serial\obj\Debug\duyang-3-Serial.pdb
+D:\Users\HOWU\Desktop\serial-picture\上位机\上位机显示图片\obj\Debug\duyang-3-Serial.exe
+D:\Users\HOWU\Desktop\serial-picture\上位机\上位机显示图片\obj\Debug\duyang-3-Serial.pdb
